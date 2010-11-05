@@ -4,7 +4,7 @@ img_extIsRegExp=false
 img_extensions=.eps .jpg .jpeg .png .pdf .ps .fig .gif
 kileprversion=2
 kileversion=2.0.85
-lastDocument=intro/introduction.tex
+lastDocument=phyprog.tex
 masterDocument=
 name=phyprog
 pkg_extIsRegExp=false
@@ -108,10 +108,10 @@ order=-1
 
 [item:phyprog.tex]
 archive=true
-column=9
+column=32
 encoding=UTF-8
 highlight=LaTeX
-line=13
+line=12
 mode=LaTeX
 open=true
 order=0
@@ -133,5 +133,5 @@ CursorColumn=0
 CursorLine=2
 
 [view-settings,view=0,item:phyprog.tex]
-CursorColumn=9
-CursorLine=13
+CursorColumn=32
+CursorLine=12
